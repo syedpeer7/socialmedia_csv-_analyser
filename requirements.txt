@@ -1,0 +1,10 @@
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.4
+nltk>=3.8
+streamlit>=1.38
+plotly>=5.22
+textblob>=0.18
+pyyaml>=6.0
+reportlab>=4.2
+pydantic>=2.8

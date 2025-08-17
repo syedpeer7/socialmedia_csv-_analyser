@@ -1,0 +1,11 @@
+platform,user_id,timestamp,action,content_text,content_tags,url
+twitter,alice,2025-08-10T10:12:00Z,like,"Great initiative! Planting 1000 trees this week 🌳 #Environment #Green","environment,csr",https://x.com/post/1
+twitter,alice,2025-08-10T11:45:00Z,comment,"This is misleading. Please verify your facts before posting.","politics,misinformation",https://x.com/post/2
+instagram,alice,2025-08-11T08:05:00Z,like,"Beach cleanup drive this Sunday! Volunteers welcome.","socialwork,environment",https://instagram.com/p/abc
+reddit,alice,2025-08-11T18:20:00Z,comment,"Loved the new Python 3.13 features—pattern matching makes code so clean!","technology,python",https://reddit.com/r/Python/comments/xyz
+youtube,alice,2025-08-12T06:55:00Z,comment,"Toxic fan wars ruin the fun. Can we be respectful?","entertainment,community",https://youtube.com/watch?v=123
+linkedin,alice,2025-08-12T09:10:00Z,post,"Happy to mentor students on open-source contributions. DM if interested.","mentorship,education,opensource",https://linkedin.com/posts/1
+twitter,alice,2025-08-13T14:33:00Z,comment,"You are clueless. Stop spreading nonsense.","troll,toxic",https://x.com/post/3
+instagram,alice,2025-08-14T07:40:00Z,like,"Yoga for mental health session live now.","health,wellness",https://instagram.com/p/def
+reddit,alice,2025-08-14T12:05:00Z,comment,"Plant-based diet reduced my cholesterol—sharing resources.","health,environment",https://reddit.com/r/health/comments/abc
+twitter,alice,2025-08-15T20:02:00Z,like,"Congrats to the team on launching the open-source project!","technology,opensource",https://x.com/post/9
